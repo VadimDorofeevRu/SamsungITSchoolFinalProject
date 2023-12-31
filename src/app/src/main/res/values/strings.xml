@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Выпускное задание для Samsung IT School</string>
+    <string name="button_prev_day">Предыдущий день</string>
+    <string name="button_next_day">Следующий день</string>
+    <string name="textview_currency_date_placeholder">ДД.ММ.ГГГГ</string>
+    <string name="textview_currency_title">Курсы валют ЦБ РФ на дату:</string>
+    <string name="textview_currency_notes">(нажмите для выбора даты)</string>
+    <string name="textview_convert_from">Исходная валюта:</string>
+    <string name="textview_convert_to">Валюта назначения:</string>
+    <string name="dialog_convert_title">Живая конвертация</string>
+    <string name="dialog_convert_close">Закрыть</string>
+
+    <string name="load_error">Не удалось загрузить данные о курсах!</string>
+    <string name="date_format_human">%1$02d.%2$02d.%3$04d</string>
+    <string name="textview_to_rouble">Рубль</string>
+</resources>
